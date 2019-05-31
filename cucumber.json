@@ -1,0 +1,321 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 10614448737,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Browser.setUp()"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "Stores a raw data of name place animal",
+        "description": "",
+        "id": "scenario-outline-example;stores-a-raw-data-of-name-place-animal;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 1165071953,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Browser.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 837651160,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "My name is \"Rahul\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Rahul",
+                  "offset": 12
+                }
+              ],
+              "location": "ScenarioOutlineStepDef.my_name_is_something(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 916011,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "My place is \"Noida\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Noida",
+                  "offset": 13
+                }
+              ],
+              "location": "ScenarioOutlineStepDef.my_place_is_something(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 425911,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I have a \"Lion\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Lion",
+                  "offset": 10
+                }
+              ],
+              "location": "ScenarioOutlineStepDef.i_have_a_something(String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@test"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 8161524959,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Browser.setUp()"
+            }
+          }
+        ],
+        "line": 12,
+        "name": "Stores a raw data of name place animal",
+        "description": "",
+        "id": "scenario-outline-example;stores-a-raw-data-of-name-place-animal;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 1110304220,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Browser.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 649817,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "My name is \"Deepak\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Deepak",
+                  "offset": 12
+                }
+              ],
+              "location": "ScenarioOutlineStepDef.my_name_is_something(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 241652,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "My place is \"Gurgaon\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Gurgaon",
+                  "offset": 13
+                }
+              ],
+              "location": "ScenarioOutlineStepDef.my_place_is_something(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 229946,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I have a \"Cow\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Cow",
+                  "offset": 10
+                }
+              ],
+              "location": "ScenarioOutlineStepDef.i_have_a_something(String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@test"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 7410957927,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Browser.setUp()"
+            }
+          }
+        ],
+        "line": 13,
+        "name": "Stores a raw data of name place animal",
+        "description": "",
+        "id": "scenario-outline-example;stores-a-raw-data-of-name-place-animal;;4",
+        "after": [
+          {
+            "result": {
+              "duration": 1101853205,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Browser.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1070064,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "My name is \"Amit\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Amit",
+                  "offset": 12
+                }
+              ],
+              "location": "ScenarioOutlineStepDef.my_name_is_something(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 361722,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "My place is \"Delhi\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Delhi",
+                  "offset": 13
+                }
+              ],
+              "location": "ScenarioOutlineStepDef.my_place_is_something(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 334159,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I have a \"Dog\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Dog",
+                  "offset": 10
+                }
+              ],
+              "location": "ScenarioOutlineStepDef.i_have_a_something(String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@test"
+          }
+        ]
+      }
+    ],
+    "name": "Scenario Outline Example",
+    "description": "",
+    "id": "scenario-outline-example",
+    "keyword": "Feature",
+    "uri": "ScenarioOutline.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@test"
+      }
+    ]
+  }
+]
